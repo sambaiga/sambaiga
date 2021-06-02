@@ -1,12 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://sambaiga.github.io/machine%20learning/2017/05/03/hmm-intro.html</loc>
+<lastmod>2017-05-03T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>https://sambaiga.github.io/machine%20learning/2017/05/29/hmm-discrete.html</loc>
+<lastmod>2017-05-29T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>https://sambaiga.github.io/machine%20learning/2017/06/01/ml-introduction.html</loc>
+<lastmod>2017-06-01T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>https://sambaiga.github.io/machine%20learning/2017/06/06/hmm-gausian.html</loc>
+<lastmod>2017-06-06T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>https://sambaiga.github.io/machine%20learning/2017/07/02/ml-classification.html</loc>
+<lastmod>2017-07-02T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>https://sambaiga.github.io/markdown/2020/01/14/test-markdown-post.html</loc>
 <lastmod>2020-01-14T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>https://sambaiga.github.io/jupyter/2020/02/20/test.html</loc>
 <lastmod>2020-02-20T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>https://sambaiga.github.io/machine%20learning/deep%20learning/eearth%20observation/2020/06/20/eo-blog-one.html</loc>
+<lastmod>2020-06-20T00:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>https://sambaiga.github.io/about/</loc>
